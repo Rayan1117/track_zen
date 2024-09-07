@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676985016766",
+    "project_id": "track-zen",
+    "storage_bucket": "track-zen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676985016766:android:cfe12fb3a0c2bffd2ea9ef",
+        "android_client_info": {
+          "package_name": "com.example.track_zen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaL2HhfWqrxccrfQ7U4Jck3gOuUSP_DfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
